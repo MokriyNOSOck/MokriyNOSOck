@@ -3,7 +3,7 @@
 - [x] wake up
 - [x] bedrot 
 - [x] youtubemaxx
-- [] shower
+- [ ] shower
 
 >[!WARNING]
 >I eat children for breakfast<sub>here’s proof:</sub>
