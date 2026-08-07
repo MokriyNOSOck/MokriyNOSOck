@@ -12,7 +12,5 @@
 
 my favourite quote is:
 > birds… **fuck you**🖕🏼
-<!--
-**MokriyNOSOck/MokriyNOSOck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-—->
+
 ![deathgrips](https://media1.tenor.com/m/pmdfwznERP8AAAAC/death-grips-government-plates.gif)
